@@ -3,10 +3,10 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.uamade.com.ua"
-  version     = "15.07.15"
-  versionCode = "150715"
+  version     = "15.07.20"
+  versionCode = "150720"
 >
-  <name>Купить хендмейд - UAmade Store</name>
+  <name>UAmade Store</name>
   <author
     href="http://shop-mobilizer.com"
     email="info@shop-mobilizer.com">ShopMobilizer
