@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.uamade.com.ua"
-  version     = "15.07.20"
-  versionCode = "150720"
+  version     = "15.07.22"
+  versionCode = "150722"
 >
   <name>UAmade Store</name>
   <author
